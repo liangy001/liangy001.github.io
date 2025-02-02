@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yue Liang - Home"
+title: "Yue Liang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
