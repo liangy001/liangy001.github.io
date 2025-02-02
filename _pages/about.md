@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I finished a master's degree in computer science at Chongqing University this year. [Chongqing University](https://www.cqu.edu.cn/). My research interest includes computer architectur.
+I finished a master's degree in computer science at Chongqing University in 2024. [Chongqing University](https://www.cqu.edu.cn/). My research interest includes computer architectur.
 
 I am very fortunate to be advised by [Prof. Dajiang Liu]([https://www.XXX.com/](http://www.cs.cqu.edu.cn/info/1275/3762.htm)) from Chongqing University. 
 
